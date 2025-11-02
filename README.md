@@ -1,6 +1,6 @@
 ## a simple dynaic array:
 # Methods
- 1- bool SetItem(int Index, DataType value)
+ 1. bool SetItem(int Index, DataType value)
  
  2- bool IsEmpty()
  
